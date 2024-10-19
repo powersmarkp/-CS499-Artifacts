@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="creator">Mark Powers</string>
+    <string name="addButton">Add</string>
+    <string name="update">Update</string>
+    <string name="clearButton">Clear</string>
+    <string name="showAllTasks">Show All Tasks</string>
+</resources>
